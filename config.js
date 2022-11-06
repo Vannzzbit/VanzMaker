@@ -29,29 +29,29 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/nafronam'// instagram kamu
-global.sgh = '-' //github kamu
-global.sgc = 'https://chat.whatsapp.com/EY4qJSyz3W8CsjAxpPcfoI'//grubwa kamu
-global.swa = 'wa.me/6281252733108'//nomor kamu
+global.sig = 'tiktok.com/@kelasdekk98'// instagram kamu
+global.sgh = 'github.com/Vannzzbit' //github kamu
+global.sgc = 'https://chat.whatsapp.com/DznMqtSaWwm4tGZlfpCAz3'//grubwa kamu
+global.swa = 'wa.me/62895801290205'//nomor kamu
 
 /*============== PAYMENT ==============*/
-global.pdana = '081252733108'//pembayaran kalau ada yang mau beli
-global.povo = '081252733108'
-global.pgopay = '081252733108'
-global.ppulsa = '081252733108'
-global.ppulsa2 = '081252733108'
-global.psaweria = 'https://saweria.co/nafron'//saweria kamu,kalau gak punya kosongin tidak apa"
+global.pdana = '0895801290205'//pembayaran kalau ada yang mau beli
+global.povo = '0895801290205'
+global.pgopay = '08xxxxxxxxx'
+global.ppulsa = '0895801290205'
+global.ppulsa2 = '0895801290205'
+global.psaweria = 'Ga Ada'//saweria kamu,kalau gak punya kosongin tidak apa"
 
 /*============== NOMOR ==============*/
-global.nomorbot = '082233236077'
-global.nomorown = '6281252733108'
-global.namebot = 'Ŧ𝖗𝖔𝖓𝖇𝖔𝖙'
-global.nameown = '𝐌𝐮𝐡𝐚𝐦𝐦𝐚𝐝 𝐍𝐚𝐟𝐫𝐨𝐧'
+global.nomorbot = '12258250233'
+global.nomorown = '62895801290205'
+global.namebot = 'Vanz𝖇𝖔𝖙'
+global.nameown = 'Vanzz🥶🥶'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281252733108', '𝐌𝐮𝐡𝐚𝐦𝐦𝐚𝐝 𝐍𝐚𝐟𝐫𝐨𝐧', 'true']
+  ['62895801290205', 'Vanzz🥶🥶', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -98,20 +98,20 @@ global.APIKeys = { // APIKey Here
 }
 
 /*============== WATERMARK ==============*/
-global.wm = '𝐌𝐮𝐡𝐚𝐦𝐦𝐚𝐝 𝐍𝐚𝐟𝐫𝐨𝐧 | ʙʏ Ŧ𝖗𝖔𝖓𝖇𝖔𝖙' //Main Watermark
-global.wm2 = '𝐌𝐮𝐡𝐚𝐦𝐦𝐚𝐝 𝐍𝐚𝐟𝐫𝐨𝐧'
-global.wm3 = '𝐌𝐮𝐡𝐚𝐦𝐦𝐚𝐝 𝐍𝐚𝐟𝐫𝐨𝐧 | ʙʏ Ŧ𝖗𝖔𝖓𝖇𝖔𝖙'
+global.wm = 'Vanzz🥶🥶 | ʙʏ Vanzz🥶🥶𝖙' //Main Watermark
+global.wm2 = 'Vanzz🥶🥶'
+global.wm3 = 'Vanzz🥶🥶 | ʙʏ Vanzzz🥶🥶'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `Ŧ𝖗𝖔𝖓𝖇𝖔𝖙 | By ${global.nameown}` // isi bebas
-global.author = '𝐌𝐮𝐡𝐚𝐦𝐦𝐚𝐝 𝐍𝐚𝐟𝐫𝐨𝐧' // pemilik?
-global.packname = 'ᴛɪᴋᴛᴏᴋ : 𝐧𝐚𝐟𝐫𝐨𝐧𝐚𝐧𝐣𝐚𝐲𝟐'//bebas
+global.author = 'Vanzz🥶🥶🥶' // pemilik?
+global.packname = 'ᴛɪᴋᴛᴏᴋ : Kelasdekk98'//bebas
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/a94ebededebcbc792a12a.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/b61bb71086eca8107155c.jpg'
-global.giflogo = 'https://telegra.ph/file/a94ebededebcbc792a12a.jpg'
-global.thumbs = ['https://telegra.ph/file/a94ebededebcbc792a12a.jpg']
+global.thumb = 'https://telegra.ph/file/b2d8e2435068d3a5fa7ac.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/e795f25d5010e98fbd1cf.jpg'
+global.giflogo = 'https://telegra.ph/file/e795f25d5010e98fbd1cf.jpg'
+global.thumbs = ['https://telegra.ph/file/05203e6065ca1be5b78db.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
 /*============== TEXT ==============*/
@@ -125,7 +125,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/b61bb71086eca8107155c.jpg'
+global.thumbdoc = 'https://telegra.ph/file/b2d8e2435068d3a5fa7ac.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
@@ -154,8 +154,8 @@ global.lolm = 'Ⓛ'
 global.htjava = '❃' //hiasan Doang :v
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'ᴛɪᴋᴛᴏᴋ : 𝐧𝐚𝐟𝐫𝐨𝐧𝐚𝐧𝐣𝐚𝐲𝟐'//stiker watermark
-global.stickauth = `ʙʏ Ŧ𝖗𝖔𝖓𝖇𝖔𝖙 | wa.me/6282233236077`//sama aja
+global.stickpack = 'ᴛɪᴋᴛᴏᴋ : Kelasdekk98 '//stiker watermark
+global.stickauth = `ʙʏ Vanzbot | wa.me/62895801290205`//sama aja
 
 global.multiplier = 38 // The higher, The harder levelup
 
