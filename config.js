@@ -103,7 +103,7 @@ global.wm2 = 'Vanzz🥶🥶'
 global.wm3 = 'Vanzz🥶🥶 | ʙʏ Vanzzz🥶🥶'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `Ŧ𝖗𝖔𝖓𝖇𝖔𝖙 | By ${global.nameown}` // isi bebas
+global.titlebot = `Vanz𝖇𝖔𝖙 | By ${global.nameown}` // isi bebas
 global.author = 'Vanzz🥶🥶🥶' // pemilik?
 global.packname = 'ᴛɪᴋᴛᴏᴋ : Kelasdekk98'//bebas
 
