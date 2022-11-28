@@ -43,7 +43,7 @@ global.ppulsa2 = '0895801290205'
 global.psaweria = 'Ga Ada'//saweria kamu,kalau gak punya kosongin tidak apa"
 
 /*============== NOMOR ==============*/
-global.nomorbot = '12258250233'
+global.nomorbot = '6285606903903'
 global.nomorown = '62895801290205'
 global.namebot = 'Vanz𝖇𝖔𝖙'
 global.nameown = 'Vanzz🥶🥶'
