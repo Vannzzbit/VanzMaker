@@ -63,8 +63,8 @@ const defaultMenu = {
  
 ⛓️ *Bot Name:* %me
 ⛓️ *Mode:* Public
-⛓️ *Platform:* Linux
-⛓️ *Type:* Node.Js
+⛓️ *Platform:* Linux, windows 
+⛓️ *Type:* Next.Js
 ⛓️ *Baileys:* Multi Device
 ⛓️ *Uptime:* %muptime
 ⛓️ *Database:* %rtotalreg dari %totalreg
@@ -182,7 +182,7 @@ let handler = async (m, { conn, usedPrefix, __dirname }) => {
     const valor = './thumbnail.jpg'
     let url = 'https://telegra.ph/file/9186962c3ffa47d6616c0.jpg'
     conn.sendButton(m.chat,
-` *ꜰʀᴏɴʙᴏᴛ ᴀᴅᴀʟᴀʜ ʙᴏᴛ ᴡʜᴀᴛꜱᴀᴘᴘꜱ*
+` *ᴠᴀɴᴢʙᴏᴛ ᴀᴅᴀʟᴀʜ ʙᴏᴛ ᴡʜᴀᴛꜱᴀᴘᴘꜱ*
 
 ${wish()} ${name}
 `, text.trim(), `https://telegra.ph/file/b2d8e2435068d3a5fa7ac.jpg`, [
